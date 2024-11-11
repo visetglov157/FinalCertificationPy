@@ -1,3 +1,4 @@
+#Промежуточная аттестация по курсу Погружение в Python
 import logging
 import argparse
 from typing import List
